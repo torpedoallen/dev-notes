@@ -1,5 +1,7 @@
 ## Blogs
 
+  https://github.com/braydie/HowToBeAProgrammer
+
   https://engineering.pinterest.com/blog
   
   http://blog.cloudera.com/
